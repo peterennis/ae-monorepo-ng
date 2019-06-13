@@ -1,6 +1,6 @@
 {
-  "name": "my-dream-app",
-  "version": "0.0.0",
+  "name": "aeicons-angular",
+  "version": "0.2.0",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
