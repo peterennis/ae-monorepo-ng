@@ -1,5 +1,7 @@
 {
   "name": "ae-gallery",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
