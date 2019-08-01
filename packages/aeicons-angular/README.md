@@ -1,11 +1,12 @@
 # aeicons-angular
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.0.2
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.2.0
 
 ![](https://github.com/peterennis/aeicons-angular/blob/master/src/assets/aeangular.gif)
 
 ```txt
 >ng --version
+
 
      _                      _                 ____ _     ___
     / \   _ __   __ _ _   _| | __ _ _ __     / ___| |   |_ _|
@@ -15,29 +16,28 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
                 |___/
 
 
-Angular CLI: 8.0.2
+Angular CLI: 8.2.0
 Node: 10.15.3
 OS: win32 x64
-Angular: 8.0.0
-... animations, common, compiler, compiler-cli, core, forms
+Angular: 8.2.0
+... animations, cli, common, compiler, compiler-cli, core, forms
 ... language-service, platform-browser, platform-browser-dynamic
 ... router
 
 Package                           Version
 -----------------------------------------------------------
-@angular-devkit/architect         0.800.2
-@angular-devkit/build-angular     0.800.2
-@angular-devkit/build-optimizer   0.800.2
-@angular-devkit/build-webpack     0.800.2
-@angular-devkit/core              8.0.2
-@angular-devkit/schematics        8.0.2
-@angular/cli                      8.0.2
-@ngtools/webpack                  8.0.2
-@schematics/angular               8.0.2
-@schematics/update                0.800.2
-rxjs                              6.4.0
-typescript                        3.4.5
-webpack                           4.30.0
+@angular-devkit/architect         0.802.0
+@angular-devkit/build-angular     0.802.0
+@angular-devkit/build-optimizer   0.802.0
+@angular-devkit/build-webpack     0.802.0
+@angular-devkit/core              8.2.0
+@angular-devkit/schematics        8.2.0
+@ngtools/webpack                  8.2.0
+@schematics/angular               8.2.0
+@schematics/update                0.802.0
+rxjs                              6.5.2
+typescript                        3.5.3
+webpack                           4.38.0
 ```
 
 ## Development server
