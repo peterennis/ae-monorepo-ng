@@ -17,7 +17,7 @@ export class Tab2Page {
       destinationType: this.camera.DestinationType.DATA_URL,
       encodingType: this.camera.EncodingType.JPEG,
       mediaType: this.camera.MediaType.PICTURE
-    }
+    };
 
     this.camera.getPicture(options).then((imageData) => {
       this.currentImage = 'data:image/jpeg;base64,' + imageData;
