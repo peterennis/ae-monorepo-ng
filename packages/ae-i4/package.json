@@ -1,8 +1,8 @@
 {
-  "name": "ionic4-starter",
+  "name": "ae-i4-tabs-menu",
   "version": "0.0.1",
-  "author": "Ionic Framework",
-  "homepage": "https://ionicframework.com/",
+  "author": "adaept",
+  "homepage": "https://adaept.com/",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
@@ -55,5 +55,5 @@
     "tslint": "~5.12.0",
     "typescript": "~3.2.1"
   },
-  "description": "An Ionic project"
+  "description": "an adaept project"
 }
