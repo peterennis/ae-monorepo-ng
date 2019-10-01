@@ -51,7 +51,7 @@ export class HomePage implements OnInit {
   }
 
   ionViewDidLeave() {
-    console.log('ionViewDidLeave aemojis page');
+    console.log('ionViewDidLeave home page');
 
     // ...but stop after two seconds.
     setTimeout(this.cancel, 200);
