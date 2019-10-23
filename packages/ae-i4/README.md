@@ -1,3 +1,5 @@
+# Archived and Moved to ae-monorepo-ng
+
 # ionic4-starter with tabs and side menu
 
 Main page is a tab container. It’s default is Home Page.
